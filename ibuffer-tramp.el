@@ -63,7 +63,6 @@ using a TRAMP connection"
     (when (tramp-tramp-file-p file-name)
       (let ((method (tramp-file-name-method (tramp-dissect-file-name file-name)))
 	    (host (tramp-file-name-host (tramp-dissect-file-name file-name))))
-	(message method)
 	(cons method host)))))
 
 ;;;###autoload
