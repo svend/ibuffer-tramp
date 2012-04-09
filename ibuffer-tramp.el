@@ -6,6 +6,7 @@
 
 (require 'ibuffer)
 (require 'ibuf-ext)
+(require 'tramp)
 (eval-when-compile
   (require 'cl))
 
