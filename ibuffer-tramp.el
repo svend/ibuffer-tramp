@@ -1,4 +1,4 @@
-;;; ibuffer-trampe.el --- Group ibuffer's list by TRAMP connection
+;;; ibuffer-tramp.el --- Group ibuffer's list by TRAMP connection
 ;;
 ;; Copyright (C) 2011 Svend Sorensen
 ;;
