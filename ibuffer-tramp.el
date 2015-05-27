@@ -3,7 +3,7 @@
 ;; Copyright (C) 2011 Svend Sorensen
 ;;
 ;; Author: Svend Sorensen <svend@ciffer.net>
-;; Keywords: themes
+;; Keywords: convenience
 ;; X-URL: http://github.com/svend/ibuffer-tramp
 ;; URL: http://github.com/svend/ibuffer-tramp
 ;; Version: DEV
