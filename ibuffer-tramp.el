@@ -90,4 +90,4 @@ using a TRAMP connection"
   (ibuffer-update nil t))
 
 (provide 'ibuffer-tramp)
-;; ibuffer-tramp.el ends here
+;;; ibuffer-tramp.el ends here
